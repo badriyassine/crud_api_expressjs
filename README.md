@@ -4,7 +4,17 @@ Backend-only REST API built with Express.js, implementing full CRUD operations (
 
 ---
 
-## 🌟 Features
+## Table of Contents
+
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#how-to-run-it)
+- [Technologies Used](#technologies-used)
+- [Author](#Author)
+
+---
+
+# Features
 
 - Add a new product
 - Get all products
@@ -12,13 +22,13 @@ Backend-only REST API built with Express.js, implementing full CRUD operations (
 - Delete a product by ID
 
 ---
-## 📋 Requirements
+## Requirements
 
 - node.js & mongodb installed on your machine.
 
 ---
 
-## 💻 How to run it
+## How to run it
 
 1. Clone the repository:
 
@@ -38,7 +48,7 @@ cd crud_api_expressjs
 ```
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Node.js
 - Express.js  
@@ -48,7 +58,7 @@ cd crud_api_expressjs
 
 ---
 
-## 👤 Author
+## Author
 
 Made by [**ERROR**](https://github.com/badriyassine)
 
