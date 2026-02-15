@@ -42,10 +42,13 @@ git clone https://github.com/badriyassine/crud_api_expressjs.git
 cd crud_api_expressjs
 ```
 
-3. Open `terminal`  run this commands `npm install`
+3. Open `terminal`: run this commands `npm install`
    then `npm start`.
 
+```bash
+run this commands `npm install`, then `npm start`.
 ```
+   
 ---
 
 ## Technologies Used
@@ -60,6 +63,6 @@ cd crud_api_expressjs
 
 ## Author
 
-Made by [**ERROR**](https://github.com/badriyassine)
+Made by [**BADRI YASSINE**](https://github.com/badriyassine)
 
 ---
